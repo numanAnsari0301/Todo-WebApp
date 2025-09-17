@@ -1,7 +1,7 @@
-#Todo Web App#
+# Todo Web App
 
 A simple and interactive Todo Web Application to manage daily tasks efficiently. Built using React.js and styled with Bootstrap, this app allows users to add, update, and delete tasks with ease.
-**Features:**
+## Features:
 
 Add Tasks: Quickly add new tasks with a title and due date.
 
@@ -21,3 +21,8 @@ Icons: React Icons (optional)
 
 <img width="500" height="600" alt="Screenshot 2025-09-18 005235" src="https://github.com/user-attachments/assets/8cec9131-964c-4255-947e-d846cec08c13" />
 <img width="500" height="600" alt="Screenshot 2025-09-18 005202" src="https://github.com/user-attachments/assets/38a095bf-24db-4bf6-a10d-ad60741da754" />
+
+### Installation
+1. Clone the repo
+2. Install dependencies
+3. Run the app
