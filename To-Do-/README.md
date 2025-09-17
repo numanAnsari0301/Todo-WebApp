@@ -29,10 +29,9 @@ Click the delete button to remove a task.
 
 
 # Live Demo Below:
+#[Live Demo →](http://localhost:5173/)
 
-[Live Demo →](http://localhost:5173/)
-
-
+# Screenshort
 <img width="500" height="600" alt="Screenshot 2025-09-18 005235" src="https://github.com/user-attachments/assets/8cec9131-964c-4255-947e-d846cec08c13" />
 <img width="500" height="600" alt="Screenshot 2025-09-18 005202" src="https://github.com/user-attachments/assets/38a095bf-24db-4bf6-a10d-ad60741da754" />
 
