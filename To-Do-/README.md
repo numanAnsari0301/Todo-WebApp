@@ -9,7 +9,7 @@ Delete Tasks: Remove tasks when completed or no longer needed.
 
 Responsive Design: Works seamlessly on desktop and mobile devices.
 
-**Tech Stack**
+## Tech Used
 
 Frontend: React.js
 
@@ -19,10 +19,25 @@ State Management: React useState
 
 Icons: React Icons (optional)
 
+#Usage
+
+Enter your task in the input field.
+
+Click Add Task to save it.
+
+Click the delete button to remove a task.
+
+
+#Demo
+
+[Live Demo →](http://localhost:5173/)
+
+Live Demo Here
+
 <img width="500" height="600" alt="Screenshot 2025-09-18 005235" src="https://github.com/user-attachments/assets/8cec9131-964c-4255-947e-d846cec08c13" />
 <img width="500" height="600" alt="Screenshot 2025-09-18 005202" src="https://github.com/user-attachments/assets/38a095bf-24db-4bf6-a10d-ad60741da754" />
 
-### Installation
+## Installation
 1. Clone the repo
 2. Install dependencies
 3. Run the app
